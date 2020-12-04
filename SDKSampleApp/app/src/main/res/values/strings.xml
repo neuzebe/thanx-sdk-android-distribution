@@ -1,0 +1,27 @@
+<resources>
+  <string name="app_name">SDKSampleApp</string>
+  <string name="encryptedNumberTitle">Encrypted Card:</string>
+  <string name="amexEncryption">Encrypt Amex</string>
+  <string name="amexCardNumber">34343434343434</string>
+  <string name="amexFieldTitle">Amex Card Number</string>
+  <string name="amex">Amex</string>
+  <string name="mastercardEncryption">Encrypt Mastercard</string>
+  <string name="mastercardCardNumber">5555555555554444</string>
+  <string name="mastercardFieldTitle">Mastercard Card Number</string>
+  <string name="mastercard">Mastercard</string>
+  <string name="visaEncryption">Encrypt Visa</string>
+  <string name="uid">Visa UID</string>
+  <string name="visaCardNumber">4242424242424242</string>
+  <string name="visaFieldTitle">Visa Card Number</string>
+  <string name="visa">Visa</string>
+  <string name="title_activity_card_encryption">Card Encryption</string>
+  <string name="fakePublicKey">-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwtXLbhlvOIoQE8PzvPfW
+GKcSxMyo0mL4o/KqkxSRufzhK1G5hG9oDP+WjX6D/8y2NllIfiYG9oY9qTmwKMyf
+4gGJr+N+PkT6CQZC42DvHfRvJtdftO8semyFTsU2GSXR35eGChpz4Y4KymFOkGQ0
+vgxJdjXBwKLYDK5wB7Owbgu9O64DIicU60Do3O7/f4iQ2wAVNwaNO4cmVhvpKBfz
+fxn6A7mb5iYLM4paT0sZCB2kOc3XfkjicBzpPokgM21WnTZ1eg0FYXKS3iBgDtt0
+pmvl7Mke67Aj31tOgCYCAGPs+yZ6p7e/pTngfOmHZaInb3iLxtU6skohG9jp0j7Z
+5wIDAQAB
+-----END PUBLIC KEY-----</string>
+</resources>
