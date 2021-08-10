@@ -5,7 +5,7 @@ The Thanx Android SDK provides a simple way to embed the Thanx customer engageme
 This repository contains the SDK binaries to be served via Maven, a sample application demonstrating basic usage, and all the documenation necessary for integration.
 
 ## Documentation
-The detailed documentation on how to install and use the Thanx SDK can be found [here](https://thanx.github.io/thanx-sdk-android-distribution/sdk).
+The detailed documentation on how to install and use the Thanx SDK can be found [here](https://eng.thanx.com/thanx-sdk-android-distribution/).
 
 It also includes documentation at a class and property level.
 
